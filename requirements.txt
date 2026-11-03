@@ -1,0 +1,3 @@
+# Tkinter is built-in with Python, no additional dependencies needed
+# Pillow is used for image-based ticket templates
+Pillow>=10.0.0
